@@ -29,6 +29,7 @@ public class TestHshSet {
 		stuSet.add(st5); 
 		
 		System.out.println(stuSet.size());
+		System.out.println(stuSet.contains("Rakesh"));
 		
 
 	}

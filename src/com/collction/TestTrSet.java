@@ -18,5 +18,4 @@ public class TestTrSet {
 		System.out.println(setTr);
 
 	}
-
 }

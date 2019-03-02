@@ -26,9 +26,6 @@ public class Student {
 		this.age = age;
 	}
 	
-	
-	
-
 	@Override
 	public int hashCode() {
 		System.out.println(this.name+"     hashCode.... called");
